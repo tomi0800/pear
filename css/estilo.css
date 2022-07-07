@@ -1,0 +1,39 @@
+
+html {
+    scroll-behavior: smooth;
+}
+head {
+    font-family: 'Oswald', sans-serif;
+}
+#products{
+    margin-top: 80px;
+}
+#products h2{
+    background-color: #343a40;
+    color: white    ;
+    font-size: 50px;
+}
+.btn3{
+    text-align: center;
+}
+.btn3 button{   
+    width: 200px;
+    height: 30px;
+    background: transparent;
+}
+label{
+    color: #343a40;
+    background-color: white(224, 0, 0);
+}
+#Contacto{
+    background-color:#343a40;
+    color: white(255, 255, 255)    ;
+    font-size: 50px;
+}
+article{
+    background-color:#343a40;
+    color: white(255, 255, 255)    ;
+    text-align: center;
+    color: white    ;
+
+}
